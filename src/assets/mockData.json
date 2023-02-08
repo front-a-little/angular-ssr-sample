@@ -1,0 +1,481 @@
+[
+  {
+    "path": "/content/test/www/gb/en/demos-tests/automated-tests/topics-hub/article-9",
+    "title": "Rethinking the economy",
+    "description": "Rethinking the economy",
+    "link": "/content/test/www/gb/en/demos-tests/automated-tests/topics-hub/article-9.html",
+    "highlighted": false,
+    "image": {
+      "sources": [
+        {
+          "type": "image/jpeg",
+          "renditions": [
+            {
+              "height": 118,
+              "width": 210,
+              "path": "/content/dam/test/www/teasers/soluplus.jpg.dynamic.210w118h.62dd0596608ca0cc46ad987b5fc8ebdfc8031e7d.jpeg"
+            },
+            {
+              "height": 233,
+              "width": 414,
+              "path": "/content/dam/test/www/teasers/soluplus.jpg.dynamic.414w233h.62dd0596608ca0cc46ad987b5fc8ebdfc8031e7d.jpeg"
+            },
+            {
+              "height": 432,
+              "width": 768,
+              "path": "/content/dam/test/www/teasers/soluplus.jpg.dynamic.768w432h.62dd0596608ca0cc46ad987b5fc8ebdfc8031e7d.jpeg"
+            },
+            {
+              "height": 523,
+              "width": 930,
+              "path": "/content/dam/test/www/teasers/soluplus.jpg.dynamic.930w523h.62dd0596608ca0cc46ad987b5fc8ebdfc8031e7d.jpeg"
+            },
+            {
+              "height": 560,
+              "width": 995,
+              "path": "/content/dam/test/www/teasers/soluplus.jpg.dynamic.1280w720h.62dd0596608ca0cc46ad987b5fc8ebdfc8031e7d.jpeg"
+            }
+          ]
+        }
+      ]
+    },
+    "labelReadMore": "Read more",
+    "tags": [
+      {
+        "id": "test:topic-hub/_society",
+        "label": "#Society"
+      },
+      {
+        "id": "test:topic-hub/_living",
+        "label": "#Living"
+      },
+      {
+        "id": "test:topic-hub/_circulareconomy",
+        "label": "#CircularEconomy"
+      }
+    ]
+  },
+  {
+    "path": "/content/test/www/gb/en/demos-tests/automated-tests/topics-hub/article-8",
+    "title": "Organic meets high tech",
+    "description": "How BASF is embracing the circular economy and reassessing its role in the value chain.",
+    "link": "/content/test/www/gb/en/demos-tests/automated-tests/topics-hub/article-8.html",
+    "highlighted": false,
+    "image": {
+      "sources": [
+        {
+          "type": "image/jpeg",
+          "renditions": [
+            {
+              "height": 118,
+              "width": 210,
+              "path": "/content/dam/test/www/teasers/oppanol.jpg.dynamic.210w118h.97059fa0e904a14bfcd8b5c158b41b048db30780.jpeg"
+            },
+            {
+              "height": 168,
+              "width": 299,
+              "path": "/content/dam/test/www/teasers/oppanol.jpg.dynamic.414w233h.97059fa0e904a14bfcd8b5c158b41b048db30780.jpeg"
+            }
+          ]
+        }
+      ]
+    },
+    "labelReadMore": "Read more",
+    "tags": [
+      {
+        "id": "test:topic-hub/_care",
+        "label": "#Care"
+      },
+      {
+        "id": "test:topic-hub/_innovation",
+        "label": "#Innovation"
+      }
+    ]
+  },
+  {
+    "path": "/content/test/www/gb/en/demos-tests/automated-tests/topics-hub/article-7",
+    "title": "From different perspectives",
+    "description": "What do we actually know? Experts give us some answers from their own perspective.",
+    "link": "/content/test/www/gb/en/demos-tests/automated-tests/topics-hub/article-7.html",
+    "highlighted": false,
+    "image": {
+      "sources": [
+        {
+          "type": "image/jpeg",
+          "renditions": [
+            {
+              "height": 118,
+              "width": 210,
+              "path": "/content/dam/test/www/teasers/novata.jpg.dynamic.210w118h.5595b68b188631fe1cae2dc956369d3f574034bf.jpeg"
+            },
+            {
+              "height": 233,
+              "width": 414,
+              "path": "/content/dam/test/www/teasers/novata.jpg.dynamic.414w233h.5595b68b188631fe1cae2dc956369d3f574034bf.jpeg"
+            },
+            {
+              "height": 312,
+              "width": 555,
+              "path": "/content/dam/test/www/teasers/novata.jpg.dynamic.768w432h.5595b68b188631fe1cae2dc956369d3f574034bf.jpeg"
+            }
+          ]
+        }
+      ]
+    },
+    "labelReadMore": "Read more",
+    "tags": [
+      {
+        "id": "test:topic-hub/_society",
+        "label": "#Society"
+      }
+    ]
+  },
+  {
+    "path": "/content/test/www/gb/en/demos-tests/automated-tests/topics-hub/article-6",
+    "title": "A new way of seeing our business",
+    "description": "How BASF is embracing the circular economy and reassessing its role in the value chain.",
+    "link": "/content/test/www/gb/en/demos-tests/automated-tests/topics-hub/article-6.html",
+    "highlighted": false,
+    "image": {
+      "sources": [
+        {
+          "type": "image/jpeg",
+          "renditions": [
+            {
+              "height": 118,
+              "width": 210,
+              "path": "/content/dam/test/www/teasers/morpholine.jpg.dynamic.210w118h.b86d33d09f37c04eaa604d031d65ed50ce837d31.jpeg"
+            },
+            {
+              "height": 126,
+              "width": 225,
+              "path": "/content/dam/test/www/teasers/morpholine.jpg.dynamic.414w233h.b86d33d09f37c04eaa604d031d65ed50ce837d31.jpeg"
+            }
+          ]
+        }
+      ]
+    },
+    "labelReadMore": "Read more",
+    "tags": [
+      {
+        "id": "test:topic-hub/_innovation",
+        "label": "#Innovation"
+      },
+      {
+        "id": "test:topic-hub/_highlight-1",
+        "label": "#Highlight 1"
+      },
+      {
+        "id": "test:topic-hub/_topic-1",
+        "label": "#Topic 1"
+      },
+      {
+        "id": "test:topic-hub/_circulareconomy",
+        "label": "#CircularEconomy"
+      }
+    ]
+  },
+  {
+    "path": "/content/test/www/gb/en/demos-tests/automated-tests/topics-hub/article-5",
+    "title": "Everything under the sun",
+    "description": "Why do we need to protect our skin and other surfaces from the sun’s rays, and how does chemistry help?",
+    "link": "/content/test/www/gb/en/demos-tests/automated-tests/topics-hub/article-5.html",
+    "highlighted": false,
+    "image": {
+      "sources": [
+        {
+          "type": "image/jpeg",
+          "renditions": [
+            {
+              "height": 118,
+              "width": 210,
+              "path": "/content/dam/test/www/teasers/image_ludiflash.jpeg.dynamic.210w118h.2b85cd722579bdf59abb1eb195b8cb4b4c629c0c.jpeg"
+            },
+            {
+              "height": 135,
+              "width": 240,
+              "path": "/content/dam/test/www/teasers/image_ludiflash.jpeg.dynamic.414w233h.2b85cd722579bdf59abb1eb195b8cb4b4c629c0c.jpeg"
+            }
+          ]
+        }
+      ]
+    },
+    "labelReadMore": "Read more",
+    "tags": [
+      {
+        "id": "test:topic-hub/_care",
+        "label": "#Care"
+      }
+    ]
+  },
+  {
+    "path": "/content/test/www/gb/en/demos-tests/automated-tests/topics-hub/article-4",
+    "title": "Life in a circular economy",
+    "description": "Repair, reuse, recycle – an infographic of businesses that sustainably meet our needs and wishes.",
+    "link": "/content/test/www/gb/en/demos-tests/automated-tests/topics-hub/article-4.html",
+    "highlighted": false,
+    "image": {
+      "sources": [
+        {
+          "type": "image/jpeg",
+          "renditions": [
+            {
+              "height": 118,
+              "width": 210,
+              "path": "/content/dam/test/www/teasers/cq5dam.web.16-9.6.jpg.dynamic.210w118h.683efef919d8450abf98f9527797076795ab39ed.jpeg"
+            },
+            {
+              "height": 233,
+              "width": 414,
+              "path": "/content/dam/test/www/teasers/cq5dam.web.16-9.6.jpg.dynamic.414w233h.683efef919d8450abf98f9527797076795ab39ed.jpeg"
+            },
+            {
+              "height": 312,
+              "width": 555,
+              "path": "/content/dam/test/www/teasers/cq5dam.web.16-9.6.jpg.dynamic.768w432h.683efef919d8450abf98f9527797076795ab39ed.jpeg"
+            }
+          ]
+        }
+      ]
+    },
+    "labelReadMore": "Read more",
+    "tags": [
+      {
+        "id": "test:topic-hub/_highlight-1",
+        "label": "#Highlight 1"
+      },
+      {
+        "id": "test:topic-hub/_topic-1",
+        "label": "#Topic 1"
+      },
+      {
+        "id": "test:topic-hub/_circulareconomy",
+        "label": "#CircularEconomy"
+      }
+    ]
+  },
+  {
+    "path": "/content/test/www/gb/en/demos-tests/automated-tests/topics-hub/article-3",
+    "title": "Article 3",
+    "description": "This is the medium lenght description of a testing article, prepared for the sprint review. Visualizing the look with a recommended lenght of 160 characters.",
+    "link": "/content/test/www/gb/en/demos-tests/automated-tests/topics-hub/article-3.html",
+    "highlighted": false,
+    "image": {
+      "sources": [
+        {
+          "type": "image/jpeg",
+          "renditions": [
+            {
+              "height": 118,
+              "width": 210,
+              "path": "/content/dam/test/www/teasers/chemicalsfinalv2.jpg.dynamic.210w118h.6aa308de33e2132710f19fd1d7ce9a492bd788e4.jpeg"
+            },
+            {
+              "height": 233,
+              "width": 414,
+              "path": "/content/dam/test/www/teasers/chemicalsfinalv2.jpg.dynamic.414w233h.6aa308de33e2132710f19fd1d7ce9a492bd788e4.jpeg"
+            },
+            {
+              "height": 432,
+              "width": 768,
+              "path": "/content/dam/test/www/teasers/chemicalsfinalv2.jpg.dynamic.768w432h.6aa308de33e2132710f19fd1d7ce9a492bd788e4.jpeg"
+            },
+            {
+              "height": 523,
+              "width": 930,
+              "path": "/content/dam/test/www/teasers/chemicalsfinalv2.jpg.dynamic.930w523h.6aa308de33e2132710f19fd1d7ce9a492bd788e4.jpeg"
+            },
+            {
+              "height": 543,
+              "width": 965,
+              "path": "/content/dam/test/www/teasers/chemicalsfinalv2.jpg.dynamic.1280w720h.6aa308de33e2132710f19fd1d7ce9a492bd788e4.jpeg"
+            }
+          ]
+        }
+      ]
+    },
+    "labelReadMore": "Read more",
+    "tags": [
+      {
+        "id": "test:topic-hub/_topic-3",
+        "label": "#Topic 3"
+      },
+      {
+        "id": "test:topic-hub/_highlight-3",
+        "label": "#Highlight 3"
+      }
+    ]
+  },
+  {
+    "path": "/content/test/www/gb/en/demos-tests/automated-tests/topics-hub/article-22",
+    "title": "Keeping the world moving",
+    "description": "Keeping the world moving",
+    "link": "/content/test/www/gb/en/demos-tests/automated-tests/topics-hub/article-22.html",
+    "highlighted": false,
+    "image": {
+      "sources": [
+        {
+          "type": "image/jpeg",
+          "renditions": [
+            {
+              "height": 118,
+              "width": 210,
+              "path": "/content/dam/test/www/en/penguins.jpg.dynamic.210w118h.fb9f78698a4361bddaa7af58d074533680221e66.jpeg"
+            },
+            {
+              "height": 233,
+              "width": 414,
+              "path": "/content/dam/test/www/en/penguins.jpg.dynamic.414w233h.fb9f78698a4361bddaa7af58d074533680221e66.jpeg"
+            },
+            {
+              "height": 432,
+              "width": 768,
+              "path": "/content/dam/test/www/en/penguins.jpg.dynamic.768w432h.fb9f78698a4361bddaa7af58d074533680221e66.jpeg"
+            },
+            {
+              "height": 523,
+              "width": 930,
+              "path": "/content/dam/test/www/en/penguins.jpg.dynamic.930w523h.fb9f78698a4361bddaa7af58d074533680221e66.jpeg"
+            },
+            {
+              "height": 561,
+              "width": 997,
+              "path": "/content/dam/test/www/en/penguins.jpg.dynamic.1280w720h.fb9f78698a4361bddaa7af58d074533680221e66.jpeg"
+            }
+          ]
+        }
+      ]
+    },
+    "labelReadMore": "Read more",
+    "tags": [
+      {
+        "id": "test:topic-hub/_innovation",
+        "label": "#Innovation"
+      },
+      {
+        "id": "test:topic-hub/_topic-2",
+        "label": "#Topic 2"
+      },
+      {
+        "id": "test:topic-hub/_society",
+        "label": "#Society"
+      },
+      {
+        "id": "test:topic-hub/_highlight-2",
+        "label": "#Highlight 2"
+      }
+    ]
+  },
+  {
+    "path": "/content/test/www/gb/en/demos-tests/automated-tests/topics-hub/article-21",
+    "title": "Mobility in the city of tomorrow",
+    "description": "Autonomous vehicles, road signs on demand, self-driving capsules and cars that can be folded up for parking: A vision of how we could move around in the city of tomorrow.",
+    "link": "/content/test/www/gb/en/demos-tests/automated-tests/topics-hub/article-21.html",
+    "highlighted": false,
+    "image": {
+      "sources": [
+        {
+          "type": "image/jpeg",
+          "renditions": [
+            {
+              "height": 118,
+              "width": 210,
+              "path": "/content/dam/test/www/en/penguins.jpg.dynamic.210w118h.fb9f78698a4361bddaa7af58d074533680221e66.jpeg"
+            },
+            {
+              "height": 233,
+              "width": 414,
+              "path": "/content/dam/test/www/en/penguins.jpg.dynamic.414w233h.fb9f78698a4361bddaa7af58d074533680221e66.jpeg"
+            },
+            {
+              "height": 432,
+              "width": 768,
+              "path": "/content/dam/test/www/en/penguins.jpg.dynamic.768w432h.fb9f78698a4361bddaa7af58d074533680221e66.jpeg"
+            },
+            {
+              "height": 523,
+              "width": 930,
+              "path": "/content/dam/test/www/en/penguins.jpg.dynamic.930w523h.fb9f78698a4361bddaa7af58d074533680221e66.jpeg"
+            },
+            {
+              "height": 561,
+              "width": 997,
+              "path": "/content/dam/test/www/en/penguins.jpg.dynamic.1280w720h.fb9f78698a4361bddaa7af58d074533680221e66.jpeg"
+            }
+          ]
+        }
+      ]
+    },
+    "labelReadMore": "Read more",
+    "tags": [
+      {
+        "id": "test:topic-hub/_innovation",
+        "label": "#Innovation"
+      },
+      {
+        "id": "test:topic-hub/_topic-2",
+        "label": "#Topic 2"
+      }
+    ]
+  },
+  {
+    "path": "/content/test/www/gb/en/demos-tests/automated-tests/topics-hub/article-20",
+    "title": "AI will support people, not replace them",
+    "description": "Interview with Professor Barbara Grosz. A leading thinker in the field of artificial intelligence (AI) since the 1970s.",
+    "link": "/content/test/www/gb/en/demos-tests/automated-tests/topics-hub/article-20.html",
+    "highlighted": false,
+    "image": {
+      "sources": [
+        {
+          "type": "image/jpeg",
+          "renditions": [
+            {
+              "height": 118,
+              "width": 210,
+              "path": "/content/dam/test/www/en/penguins.jpg.dynamic.210w118h.fb9f78698a4361bddaa7af58d074533680221e66.jpeg"
+            },
+            {
+              "height": 233,
+              "width": 414,
+              "path": "/content/dam/test/www/en/penguins.jpg.dynamic.414w233h.fb9f78698a4361bddaa7af58d074533680221e66.jpeg"
+            },
+            {
+              "height": 432,
+              "width": 768,
+              "path": "/content/dam/test/www/en/penguins.jpg.dynamic.768w432h.fb9f78698a4361bddaa7af58d074533680221e66.jpeg"
+            },
+            {
+              "height": 523,
+              "width": 930,
+              "path": "/content/dam/test/www/en/penguins.jpg.dynamic.930w523h.fb9f78698a4361bddaa7af58d074533680221e66.jpeg"
+            },
+            {
+              "height": 561,
+              "width": 997,
+              "path": "/content/dam/test/www/en/penguins.jpg.dynamic.1280w720h.fb9f78698a4361bddaa7af58d074533680221e66.jpeg"
+            }
+          ]
+        }
+      ]
+    },
+    "labelReadMore": "Read more",
+    "tags": [
+      {
+        "id": "test:topic-hub/_innovation",
+        "label": "#Innovation"
+      },
+      {
+        "id": "test:topic-hub/_topic-2",
+        "label": "#Topic 2"
+      },
+      {
+        "id": "test:topic-hub/_society",
+        "label": "#Society"
+      },
+      {
+        "id": "test:topic-hub/_highlight-2",
+        "label": "#Highlight 2"
+      }
+    ]
+  }
+]

@@ -1,0 +1,13 @@
+<div class="basf-teaser flex flex-col h-full bg-gray-200">
+  <img class="w-full" src="/assets/placeholder.svg" />
+  <div class="flex flex-col px-4 justify-between h-full">
+    <div>
+      <p class="category text-gray-500 pt-2 text-sm">
+        <span *ngFor="let tag of product.tags">{{ tag.label }}</span>
+      </p>
+      <p class="title text-lg pt-3">{{ product.title }}</p>
+      <p class="descr text-base pt-3">{{ product.description }}</p>
+    </div>
+    <app-button (click)="selected.emit(product)" class="self-center px-4 py-5 w-full">{{ product.labelReadMore }}</app-button>
+  </div>
+</div>
