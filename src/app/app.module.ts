@@ -7,7 +7,7 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 import { MatButtonModule } from "@angular/material/button";
 
-import { TeaserModule } from "./core/teaser/teaser.module";
+import { TeaserListModule} from "./teaserlist/teaserList.module";
 
 @NgModule({
   declarations: [
@@ -18,7 +18,7 @@ import { TeaserModule } from "./core/teaser/teaser.module";
     AppRoutingModule,
     BrowserAnimationsModule,
     MatButtonModule,
-    TeaserModule,
+    TeaserListModule,
   ],
   providers: [],
   bootstrap: [AppComponent]

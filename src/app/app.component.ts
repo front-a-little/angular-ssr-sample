@@ -5,20 +5,6 @@ import { Component, OnInit } from '@angular/core';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.scss']
 })
-export class AppComponent implements OnInit {
+export class AppComponent {
   title = 'angular-materials-tailwind';
-
-  products = [];
-  loading = true;
-  selectedTeaser = "";
-
-  async ngOnInit(): Promise<void> {
-    const res = await fetch("./assets/mockData.json");
-    this.products = await res.json();
-    this.loading = false;
-  }
-
-  onSelected(product: any) {
-    this.selectedTeaser = product.title;
-  }
 }

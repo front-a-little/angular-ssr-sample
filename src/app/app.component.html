@@ -326,12 +326,6 @@
 </div>
 
 <div class="content" role="main">
-
-  <p *ngIf="loading">LOADING ...</p>
-  <div *ngIf="!loading">Selected teaser: {{ selectedTeaser }}</div>
-  <div *ngIf="!loading" class="grid grid-cols-3 gap-4 auto-rows-max w-full m-5">
-    <app-teaser *ngFor="let product of products" [product]="product" (selected)="onSelected(product)" />
-  </div>
-
+  <app-teaser-list />
 </div>
 <router-outlet></router-outlet>
