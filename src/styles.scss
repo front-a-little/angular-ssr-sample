@@ -75,3 +75,20 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  .theme-default {
+    --color-primary: #004a96;
+    --color-secondary: #e0e9f2;
+  }
+
+  .theme-light-green {
+    --color-primary: #65ac1e;
+    --color-secondary: #e0eed2;
+  }
+
+  .theme-orange {
+    --color-primary: #f39500;
+    --color-secondary: #fdefd9;
+  }
+}

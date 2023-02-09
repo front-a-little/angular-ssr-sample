@@ -1,4 +1,6 @@
 import {Component, OnInit} from '@angular/core';
+import {HttpClient} from "@angular/common/http";
+import { Product } from "../teaser/teaser.component";
 
 @Component({
   selector: 'app-teaser-list',
@@ -7,13 +9,15 @@ import {Component, OnInit} from '@angular/core';
 })
 export class TeaserListComponent  implements OnInit {
 
-  products = [];
+  products: Product[] = [];
   loading = true;
   selectedTeaser = "";
 
+  constructor(private httpClient: HttpClient) {
+  }
+
   async ngOnInit(): Promise<void> {
-    const res = await fetch("./assets/mockData.json");
-    this.products = await res.json();
+    this.httpClient.get<Product[]>("./assets/mockData.json").subscribe(res => this.products = res);
     this.loading = false;
   }
 

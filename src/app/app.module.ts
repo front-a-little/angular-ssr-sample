@@ -8,13 +8,15 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MatButtonModule } from "@angular/material/button";
 
 import { TeaserListModule} from "./teaserlist/teaserList.module";
+import { ThemeSwitchComponent } from './core/theme-switch/theme-switch.component';
 
 @NgModule({
   declarations: [
     AppComponent,
+    ThemeSwitchComponent,
   ],
   imports: [
-    BrowserModule,
+    BrowserModule.withServerTransition({ appId: 'serverApp' }),
     AppRoutingModule,
     BrowserAnimationsModule,
     MatButtonModule,

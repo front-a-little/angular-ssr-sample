@@ -1,11 +1,11 @@
 import { Component, Input, Output, EventEmitter } from '@angular/core';
 
-interface Tag {
+export interface Tag {
   id: string,
   label: string,
 }
 
-interface Product {
+export interface Product {
   description: string,
   highlighted: boolean,
   labelReadMore: string,
