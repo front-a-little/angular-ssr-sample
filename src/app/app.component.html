@@ -1,5 +1,4 @@
 <div class="container mx-auto {{ theme }}" role="main">
   <app-theme-switch (currentTheme)="theme = $event"/>
-  <app-teaser-list />
+  <router-outlet></router-outlet>
 </div>
-<router-outlet></router-outlet>
