@@ -16,7 +16,7 @@ export class TeaserListComponent  implements OnInit {
   constructor(private httpClient: HttpClient) {
   }
 
-  async ngOnInit(): Promise<void> {
+  ngOnInit(): void {
     this.httpClient.get<Product[]>("./assets/mockData.json").subscribe(res => this.products = res);
     this.loading = false;
   }
