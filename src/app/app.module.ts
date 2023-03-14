@@ -1,4 +1,5 @@
 import { NgModule } from '@angular/core';
+import {TransferHttpCacheModule} from '@nguniversal/common';
 import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
@@ -17,6 +18,7 @@ import { ThemeSwitchComponent } from './core/theme-switch/theme-switch.component
   ],
   imports: [
     BrowserModule.withServerTransition({ appId: 'serverApp' }),
+    TransferHttpCacheModule,
     AppRoutingModule,
     BrowserAnimationsModule,
     MatButtonModule,
