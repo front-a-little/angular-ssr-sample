@@ -1,5 +1,7 @@
 import {Component, OnInit} from '@angular/core';
-import {HttpClient} from "@angular/common/http";
+import {HttpClient, HttpErrorResponse} from "@angular/common/http";
+import { catchError } from 'rxjs/operators';
+import { throwError } from 'rxjs';
 import { Product } from "../teaser/teaser.component";
 
 @Component({
@@ -17,8 +19,24 @@ export class TeaserListComponent  implements OnInit {
   }
 
   ngOnInit(): void {
-    this.httpClient.get<Product[]>("./assets/mockData.json").subscribe(res => this.products = res);
-    this.loading = false;
+    console.log("[TEASERLIST] init");
+
+    this.loadData();
+
+    console.log("[TEASERLIST] init finished");
+  }
+
+  loadData() {
+    this.httpClient.get<Product[]>("http://localhost:4200/assets/mockData.json")
+      .pipe(catchError((error: HttpErrorResponse) => {
+        console.log("STATUS: ", error.status);
+        console.log("ERROR: ", error);
+        return throwError(() => new Error("That didn't work serverside."));
+      })).subscribe((res) => {
+        console.log("[TEASERLIST] data received");
+        this.loading = false;
+        return this.products = res
+    })
   }
 
   onSelected(product: any) {
