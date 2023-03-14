@@ -29,7 +29,7 @@ export function app(): express.Express {
     const handler = express.static(distFolder, {
       maxAge: '1y'
     });
-    console.log(`[SERVER] handling request: ${req.path} from ${req.headers.referer}`);
+    console.log("\x1b[33m%s\x1b[0m", `[SERVER] handling request: ${req.path} from ${req.headers.referer}, ${req.headers["user-agent"]}`);
     return handler(req, res, next);
   });
 
