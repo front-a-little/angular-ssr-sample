@@ -13,7 +13,7 @@
 // (imported above). For each palette, you can optionally specify a default, lighter, and darker
 // hue. Available color palettes: https://material.io/design/color/
 
-$basf-darkblue-palette: (
+$company-darkblue-palette: (
   50: #004a96,
   100: #004a96,
   200: #004a96,
@@ -46,7 +46,7 @@ $basf-darkblue-palette: (
   )
 );
 
-$angular-materials-tailwind-primary: mat.define-palette($basf-darkblue-palette, 900);
+$angular-materials-tailwind-primary: mat.define-palette($company-darkblue-palette, 900);
 $angular-materials-tailwind-accent: mat.define-palette(mat.$pink-palette, A200, A100, A400);
 
 // The warn palette is optional (defaults to red).
@@ -78,17 +78,17 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 
 @layer base {
   .theme-default {
-    --color-primary: #004a96;
-    --color-secondary: #e0e9f2;
+    --color-primary: #146C94;
+    --color-secondary: #19A7CE;
   }
 
   .theme-light-green {
-    --color-primary: #65ac1e;
-    --color-secondary: #e0eed2;
+    --color-primary: #507255;
+    --color-secondary: #30d5c8;
   }
 
   .theme-orange {
-    --color-primary: #f39500;
-    --color-secondary: #fdefd9;
+    --color-primary: #F49D1A;
+    --color-secondary: #FFE15D;
   }
 }
